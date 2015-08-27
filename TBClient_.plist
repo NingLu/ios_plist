@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://cq01-testing-forum71.vm.baidu.com:8080/job///artifact/Products/TBClient_.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://cp01-rdqa04-dev117.cp01.baidu.com:8111/resource/images/logo-tieba.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://cp01-rdqa04-dev117.cp01.baidu.com:8111/resource/images/logo-tieba.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.baidu.Tieba.TBClientios8</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>百度贴吧</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
