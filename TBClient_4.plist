@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cq01-testing-forum71.vm.baidu.com:8080/job/Tieba_iPad_BranchCheckin_Build_6-8-0/4/artifact/Products/TBClient_4.ipa</string>
+					<string>http://cq01-testing-forum71.vm.baidu.com:8080/job/Tieba_TBPP_IOS_Build_6_9_5/4/artifact/Products/TBClient_4.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
